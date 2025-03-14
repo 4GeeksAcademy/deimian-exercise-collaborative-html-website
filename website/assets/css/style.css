@@ -1,3 +1,30 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.jumbotrom {
+    height: 600px;
+    background-image: url("../img/bg.jpg");
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+.first-heading-image{
+    background-image: url("../img/1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+
+}
+.service-image{
+    background-image: url("../img/2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
 }
